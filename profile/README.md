@@ -3,7 +3,7 @@
 </p>
 
 <div align="center">
-  <i>Care for Sidewalks, Care for Safety.</i>
+  <i>Paving the Way for Safer Walks</i>
 </div>
 
 ## Overview
